@@ -4,3 +4,6 @@
 [submodule "PixelFederation.Unity.MVC"]
 	path = PixelFederation.Unity.MVC
 	url = https://github.com/pshtif/PixelFederation.Unity.MVC
+[submodule "PixelFederation.Unity.Geom"]
+	path = PixelFederation.Unity.Geom
+	url = https://github.com/pshtif/PixelFederation.Unity.Geom
