@@ -1,3 +1,6 @@
 [submodule "PixelFederation.Unity.Tween"]
 	path = PixelFederation.Unity.Tween
 	url = https://github.com/pshtif/PixelFederation.Unity.Tween
+[submodule "PixelFederation.Unity.MVC"]
+	path = PixelFederation.Unity.MVC
+	url = https://github.com/pshtif/PixelFederation.Unity.MVC
