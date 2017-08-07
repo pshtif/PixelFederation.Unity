@@ -7,3 +7,6 @@
 [submodule "PixelFederation.Unity.Geom"]
 	path = PixelFederation.Unity.Geom
 	url = https://github.com/pshtif/PixelFederation.Unity.Geom
+[submodule "PixelFederation.Unity.Pooling"]
+	path = PixelFederation.Unity.Pooling
+	url = https://github.com/pshtif/PixelFederation.Unity.Pooling
